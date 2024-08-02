@@ -8,7 +8,7 @@ public class Employees {
     private Boolean status;
 
     public Employees() {
-        this.status = Boolean.FALSE; // Set default value
+//        this.status = Boolean.FALSE; // Set default value
     }
 
     public Employees(Integer id, String name, String address, String phone, Boolean status) {
